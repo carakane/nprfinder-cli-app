@@ -1,3 +1,3 @@
-module NprfinderCliApp
+module NPRFinder
   VERSION = "0.1.0"
 end
