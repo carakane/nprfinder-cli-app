@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "Hello world"
+require "../lib/nprfinder_cli_app"
+
+NPRFinder::CLI.new.call
